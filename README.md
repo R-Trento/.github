@@ -1,3 +1,3 @@
 # R-Trento Users Group (RTUG)
 
-Head on <https://t-tug.github.io> to find out more on RTUG!
+Head on <https://r-tug.github.io> to find out more on RTUG!
