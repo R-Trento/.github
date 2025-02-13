@@ -1,3 +1,3 @@
 # R-Trento Users Group (RTUG)
 
-Head on <https://r-tug.github.io> to find out more on RTUG!
+Edit `profile/README.md` to change the organization's profile page.
